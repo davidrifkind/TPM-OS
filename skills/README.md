@@ -36,9 +36,9 @@ Each skill specification will define:
 14. **Examples** — Realistic inputs and outputs without proprietary information
 15. **Version** — A record of changes and the evidence behind them
 
-## Battle-hardening gate
+## Skill maturity
 
-A skill progresses through these states:
+A skill can progress through these states:
 
 1. **Planned** — The job and scope are named
 2. **Specified** — The complete skill contract is documented
@@ -47,10 +47,10 @@ A skill progresses through these states:
 5. **Field test** — Practicing TPMs use the skill in real scenarios
 6. **Battle-hardened** — Failures and feedback have produced demonstrable improvements
 
-No skill will be described as battle-hardened until it has passed every stage.
+A skill will be described as battle-hardened only after it has passed every stage. These states describe the maturity of an individual skill; they do not dictate when work on another skill may begin.
 
-## Scope discipline
+## Expansion decisions
 
-Ideas for additional skills may be recorded as research, but they will not enter the product catalog until the first five satisfy the battle-hardening gate.
+Additional skills may be researched and evaluated at any time.
 
-We earn the right to build Skill #6.
+We start with five to focus our learning, but we may move to Skill #6 when user feedback, product judgment, and opportunity indicate that the current catalog is good enough to expand. Not every existing skill must reach battle-hardened status first.
