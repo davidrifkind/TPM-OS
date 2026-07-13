@@ -16,7 +16,7 @@ Our first milestone is intentionally limited to five battle-hardened skills:
 4. Stakeholder Mapper
 5. Executive Review Builder
 
-We will validate these five skills with real TPMs before expanding the catalog. We earn the right to build Skill #6.
+These five skills are our starting point. We will use real-world feedback and product judgment to decide when they are good enough—and when it is time to add Skill #6.
 
 ## Built in the real world
 
