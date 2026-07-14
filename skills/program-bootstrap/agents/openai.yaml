@@ -1,0 +1,4 @@
+interface:
+  display_name: "Program Bootstrap"
+  short_description: "Turn program files into an initiation workbook"
+  default_prompt: "Use $program-bootstrap to analyze my program files and create a draft initiation workbook."
