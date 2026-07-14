@@ -9,7 +9,7 @@ A skill performs a discrete job for a TPM. It must be independently useful and m
 | ID | Skill | Professional job | Status |
 | --- | --- | --- | --- |
 | SKILL-001 | Session Bootstrap | Establish the context, evidence, constraints, unknowns, and objective for the current working session. | Planned |
-| SKILL-002 | Program Bootstrap | Turn an ambiguous program into a structured starting point, identify gaps, and recommend first actions. | Planned |
+| SKILL-002 | Program Bootstrap | Turn an ambiguous program into a structured starting point, identify gaps, and recommend first actions. | Specified |
 | SKILL-003 | OKR Builder | Develop measurable, outcome-oriented objectives and key results from the available strategy and evidence. | Planned |
 | SKILL-004 | Stakeholder Mapper | Identify stakeholders, influence, decision rights, communication needs, and relationship gaps. | Planned |
 | SKILL-005 | Executive Review Builder | Build an executive-ready narrative and anticipate the questions leadership is likely to ask. | Planned |
